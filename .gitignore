@@ -1,0 +1,7 @@
+VideoListApp/node_modules
+VideoListApp/bundle.js
+VideoListApp/npm-debug.log
+
+# IntelliJ
+*.iml
+/.idea
