@@ -1,25 +1,6 @@
-# ReduxSimpleStarter
+# VideoList App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-###Getting Started###
-
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-	> npm install
-	> npm start
-```
+Small application that can help you get an idea of how React works and how to
+use the state and props object.
+Created a list of videos like youtube with an interface that allows you to
+search for videos and click items in the video list.
