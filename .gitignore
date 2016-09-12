@@ -2,6 +2,10 @@ VideoListApp/node_modules
 VideoListApp/bundle.js
 VideoListApp/npm-debug.log
 
+BookApp/node_modules
+BookApp/bundle.js
+BookApp/npm-debug.log
+
 # IntelliJ
 *.iml
 /.idea
